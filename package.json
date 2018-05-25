@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "node server",
-    "test": "lab -a code -L",
+    "test": "lab -a code -L -c --coverage-exclude server",
     "lint": "eslint ."
   },
   "dependencies": {
