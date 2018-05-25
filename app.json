@@ -7,6 +7,10 @@
   "formation": {
     "web": {
       "quantity": 1
+    },
+    "test": {
+      "quantity": 1,
+      "size": "standard-1x"
     }
   },
   "addons": [
