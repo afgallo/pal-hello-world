@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "node server",
-    "test": "lab -a code -L -c --coverage-exclude server",
+    "test": "NODE_ENV=test lab -a code -L -c -r console -o stdout -r html -o test/coverage/coverage.html -r lcov -o test/coverage/lcov.info -r json -o test/coverage/data.json --coverage-exclude server --coverage-exclude lib/.hc.js",
     "lint": "eslint ."
   },
   "dependencies": {
