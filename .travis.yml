@@ -3,6 +3,7 @@ node_js:
   - "node"
   - "lts/*"
 install:
+  - npm i -g npm@latest
   - npm ci
 script:
   - npm test
