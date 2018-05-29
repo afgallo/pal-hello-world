@@ -6,6 +6,7 @@ branches:
   only:
   - master
   - greenkeeper
+  - /^greenkeeper/.*$/
 install:
   - npm i -g npm@latest
   - npm ci
