@@ -23,7 +23,7 @@
     "code": "5.x.x",
     "confidence": "3.x.x",
     "coveralls": "3.0.1",
-    "dotenv": "5.x.x",
+    "dotenv": "^6.0.0",
     "eslint": "4.x.x",
     "eslint-config-hapi": "11.x.x",
     "eslint-plugin-hapi": "4.x.x",
