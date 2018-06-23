@@ -24,7 +24,7 @@
     "confidence": "3.x.x",
     "coveralls": "3.0.1",
     "dotenv": "^6.0.0",
-    "eslint": "4.x.x",
+    "eslint": "^5.0.0",
     "eslint-config-hapi": "11.x.x",
     "eslint-plugin-hapi": "4.x.x",
     "glue": "5.x.x",
