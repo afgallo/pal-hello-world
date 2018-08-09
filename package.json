@@ -11,25 +11,25 @@
   },
   "scripts": {
     "start": "node server",
-    "test": "NODE_ENV=test lab -a code -L -c -r console -o stdout -r html -o test/coverage/coverage.html -r lcov -o test/coverage/lcov.info -r json -o test/coverage/data.json --coverage-exclude server --coverage-exclude lib/.hc.js",
+    "test": "NODE_ENV=test lab",
     "lint": "eslint ."
   },
   "dependencies": {
-    "boom": "7.x.x",
-    "haute-couture": "3.x.x",
-    "joi": "13.x.x"
+    "boom": "7.2.0",
+    "haute-couture": "3.0.1",
+    "joi": "13.5.2"
   },
   "devDependencies": {
-    "code": "5.x.x",
-    "confidence": "3.x.x",
-    "coveralls": "3.x.x",
-    "dotenv": "6.x.x",
-    "eslint": "5.x.x",
-    "eslint-config-hapi": "12.x.x",
-    "eslint-plugin-hapi": "4.x.x",
-    "glue": "5.x.x",
-    "hapi": "17.x.x",
+    "code": "5.2.0",
+    "confidence": "3.0.2",
+    "coveralls": "3.0.2",
+    "dotenv": "6.0.0",
+    "eslint": "5.3.0",
+    "eslint-config-hapi": "12.0.0",
+    "eslint-plugin-hapi": "4.1.0",
+    "glue": "5.0.0",
+    "hapi": "17.5.3",
     "hpal": "1.2.1",
-    "lab": "15.x.x"
+    "lab": "15.5.0"
   }
 }
