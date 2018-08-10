@@ -17,7 +17,7 @@
   "dependencies": {
     "boom": "7.2.0",
     "haute-couture": "3.0.1",
-    "joi": "13.5.2"
+    "joi": "13.6.0"
   },
   "devDependencies": {
     "code": "5.2.0",
