@@ -28,7 +28,7 @@
     "eslint-config-hapi": "12.0.0",
     "eslint-plugin-hapi": "4.1.0",
     "glue": "5.0.0",
-    "hapi": "17.5.3",
+    "hapi": "17.5.4",
     "hpal": "1.2.1",
     "lab": "15.5.0"
   }
