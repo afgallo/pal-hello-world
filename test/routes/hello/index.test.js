@@ -4,7 +4,7 @@
 
 const Code = require('code');
 const Lab = require('lab');
-const Server = require('../../server');
+const Server = require('../../../server');
 
 // Test shortcuts
 
