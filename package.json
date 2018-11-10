@@ -15,16 +15,16 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "boom": "7.2.1",
+    "boom": "7.2.2",
     "haute-couture": "3.1.0",
-    "joi": "14.0.3"
+    "joi": "14.0.4"
   },
   "devDependencies": {
     "code": "5.2.2",
     "confidence": "3.0.2",
     "coveralls": "3.0.2",
     "dotenv": "6.1.0",
-    "eslint": "5.8.0",
+    "eslint": "5.9.0",
     "eslint-config-hapi": "12.0.0",
     "eslint-plugin-hapi": "4.1.0",
     "glue": "5.0.0",
