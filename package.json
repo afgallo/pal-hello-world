@@ -20,7 +20,7 @@
     "joi": "14.1.0"
   },
   "devDependencies": {
-    "code": "5.2.2",
+    "code": "5.2.4",
     "confidence": "4.0.0",
     "coveralls": "3.0.2",
     "dotenv": "6.1.0",
