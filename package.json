@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "code": "5.2.2",
-    "confidence": "4.0.0",
+    "confidence": "4.0.1",
     "coveralls": "3.0.2",
     "dotenv": "6.1.0",
     "eslint": "5.9.0",
