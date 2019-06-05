@@ -22,7 +22,7 @@
   "devDependencies": {
     "code": "5.2.4",
     "confidence": "4.0.1",
-    "coveralls": "3.0.3",
+    "coveralls": "3.0.4",
     "dotenv": "7.0.0",
     "eslint": "5.15.3",
     "eslint-config-hapi": "12.0.0",
