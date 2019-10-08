@@ -16,20 +16,20 @@
   },
   "dependencies": {
     "boom": "7.3.0",
-    "haute-couture": "3.3.0",
+    "confidence": "4.0.2",
+    "dotenv": "8.1.0",
+    "glue": "6.0.0",
+    "hapi": "18.1.0",
+    "haute-couture": "3.3.1",
+    "hpal": "2.2.1",
     "joi": "14.3.1"
   },
   "devDependencies": {
-    "code": "5.2.4",
-    "confidence": "4.0.2",
-    "coveralls": "3.0.4",
-    "dotenv": "7.0.0",
-    "eslint": "6.2.1",
-    "eslint-config-hapi": "12.0.0",
-    "eslint-plugin-hapi": "4.1.0",
-    "glue": "5.0.0",
-    "hapi": "18.1.0",
-    "hpal": "1.4.0",
-    "lab": "18.0.2"
+    "code": "5.2.x",
+    "coveralls": "3.0.x",
+    "eslint": "6.5.x",
+    "eslint-config-hapi": "12.0.x",
+    "eslint-plugin-hapi": "4.1.x",
+    "lab": "18.0.x"
   }
 }
