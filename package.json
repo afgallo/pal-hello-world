@@ -27,7 +27,7 @@
   "devDependencies": {
     "code": "5.2.x",
     "coveralls": "3.0.x",
-    "eslint": "~6.6.0",
+    "eslint": "~6.7.0",
     "eslint-config-hapi": "12.0.x",
     "eslint-plugin-hapi": "4.1.x",
     "lab": "18.0.x"
